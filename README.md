@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/jonathannagayoshi/">
+  <img align="left" alt="Sonikro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=sonikro.sonikro)
+
 <!--
 **sonikro/sonikro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +24,7 @@ Here are some ideas to get you started:
 <center>
 <table>
   <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=sonikro&theme=radical&show_icons=true" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=sonikro&theme=default&show_icons=true&count_private=true" /></td>
   </tr>  
 </table>
 </center>
