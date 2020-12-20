@@ -3,7 +3,9 @@
 <a href="https://www.linkedin.com/in/jonathannagayoshi/">
   <img align="left" alt="Sonikro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=sonikro.sonikro)
+<br />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sonikro.sonikro)
+<br />
 
 <!--
 **sonikro/sonikro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
