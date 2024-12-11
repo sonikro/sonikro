@@ -4,7 +4,7 @@ Hi, I'm Jonathan Nagayoshi, a Software Engineer that is currently focused in imp
 
 **Badges**
 
-<img height="200" src="https://images.credly.com/images/e44e0db0-168e-4a38-8b01-d7a0d20f1481/image.png">
+<a href="https://www.credly.com/badges/d9ca03de-4c52-4669-a944-95f212692ca5/public_url"><img height="200" src="https://images.credly.com/images/e44e0db0-168e-4a38-8b01-d7a0d20f1481/image.png"></a>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
