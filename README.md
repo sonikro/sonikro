@@ -24,6 +24,11 @@ Hi, I'm Jonathan Nagayoshi, a Software Engineer that is currently focused in imp
 - **[flutter-okta-sdk](https://github.com/sonikro/flutter-okta-sdk)**: An SDK for Auth with Okta from Flutter.
 - **[terraform-aws-teamfortress2-server](https://github.com/sonikro/terraform-aws-teamfortress2-server)**: This module was designed to create a Team Fortress 2 Dedicated Server on AWS EC2s.
 
+### My Contributions to Team Fortress 2 Community
+
+I operate a system responsible for automatically spawning Team Fortress 2 servers for Brazilian Competitive Leagues. All of my servers are equipped with a special Anti-DDoS Shield called Sonikro-Shield, ensuring that teams can play championships with peace of mind.
+The platform has now moved to being a Discord App, but the old [Landing Page](https://sonikro.landen.co/) for the Website is still up
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/sonikro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/jonathannagayoshi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
