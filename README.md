@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jonathan Nagayoshi, a Software Engineer that is currently focused in improving the developer experience of thousands of engineers worldwide.
+Hi, I'm Jonathan Nagayoshi, a Software Engineer that is currently focused on improving the developer experience of thousands of engineers worldwide.
 
 ### Badges
 
