@@ -23,10 +23,6 @@ Hi, I'm Jonathan Nagayoshi, a Software Engineer that is currently focused on imp
 - **[flutter-okta-sdk](https://github.com/sonikro/flutter-okta-sdk)**: An SDK for Auth with Okta from Flutter.
 - **[terraform-aws-teamfortress2-server](https://github.com/sonikro/terraform-aws-teamfortress2-server)**: This module was designed to create a Team Fortress 2 Dedicated Server on AWS EC2s.
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/sonikro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/jonathannagayoshi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
 <!--
 **sonikro/sonikro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
