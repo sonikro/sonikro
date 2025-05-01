@@ -18,7 +18,7 @@ Hi, I'm Jonathan Nagayoshi, a Software Engineer that is currently focused on imp
 
 ### Highlighted Projects
 
-- **[TF2-QuickServer](https://github.com/sonikro/TF2-QuickServer)**: Discord Bot for spawning TF2 Servers on-demand on AWS ECS Fargate
+- **[TF2-QuickServer](https://github.com/sonikro/TF2-QuickServer)**: Discord Bot for spawning Team Fortress 2 Servers on-demand
 - **[aws-run](https://github.com/sonikro/aws-run)**: Run code remotely in your AWS Account with GitHub Actions.
 - **[flutter-okta-sdk](https://github.com/sonikro/flutter-okta-sdk)**: An SDK for Auth with Okta from Flutter.
 - **[terraform-aws-teamfortress2-server](https://github.com/sonikro/terraform-aws-teamfortress2-server)**: This module was designed to create a Team Fortress 2 Dedicated Server on AWS EC2s.
